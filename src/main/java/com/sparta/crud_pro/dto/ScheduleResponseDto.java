@@ -1,2 +1,4 @@
-package com.sparta.crud_pro.dto;public class ScheduleResponseDto {
+package com.sparta.crud_pro.dto;
+
+public class ScheduleResponseDto {
 }

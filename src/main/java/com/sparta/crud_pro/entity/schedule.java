@@ -1,2 +1,4 @@
-package com.sparta.crud_pro.entity;public class schedule {
+package com.sparta.crud_pro.entity;
+
+public class schedule {
 }
